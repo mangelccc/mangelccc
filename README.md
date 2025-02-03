@@ -14,7 +14,7 @@
 ### ⚙️ Backend
 - **PHP y Java**: Desarrollo de lógica de negocio robusta y funcional.
 - **SQL (MySQL, MariaDB)**: 🗄️ Manejo de bases de datos relacionales para estructurar y gestionar información.
-- - **Laravel**: ⚡ Framework PHP potente para la creación de aplicaciones web escalables y eficientes. Experiencia en Eloquent ORM, migraciones, middleware y API REST.
+- **Laravel**: ⚡Framework PHP potente para la creación de aplicaciones web escalables y eficientes. Experiencia en Eloquent ORM, migraciones, middleware y API REST.
 - **Autenticación y Gestión de Sesiones**: 🔒 Implemento sistemas de acceso seguro y personalizado para los usuarios.
 
 ### 🔧 Otras Herramientas Clave
